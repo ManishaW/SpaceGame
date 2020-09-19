@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Rover
+  - GateMission
+  - Satellite
+  - Hammer
+  - BrokenWall
+  - Switch
+  - SecurityDesk
+  - CaughtTrigger
+  - Documents
   layers:
   - Default
   - TransparentFX
