@@ -13,6 +13,13 @@ TagManager:
   - SecurityDesk
   - CaughtTrigger
   - Documents
+  - TriggerPanToSecurity
+  - BlueLever
+  - YellowLever
+  - PurpleLever
+  - Reset Button
+  - Artifact
+  - ArtifactNeeded
   layers:
   - Default
   - TransparentFX

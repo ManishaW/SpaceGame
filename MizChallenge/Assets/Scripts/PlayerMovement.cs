@@ -8,10 +8,12 @@ public class PlayerMovement : MonoBehaviour
     Vector3 velocity;
     public float speed = 12f;
     private float gravity=-9.81f;
+    public GameObject [] spawnNodes;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        // transform.position = spawnNodes[0].transform.position;
     }
 
     // Update is called once per frame
